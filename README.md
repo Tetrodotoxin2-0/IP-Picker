@@ -35,7 +35,7 @@ apt update ; apt install git curl -y ; git clone https://github.com/Tetrodotoxin
 
 
 ## Features :
-#### [+] 
+#### [+] Easy IP-Picker from any website !
 #### [+] 100 % secure !
 #### [+] Easy for Beginners !
 
